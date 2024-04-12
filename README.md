@@ -1,4 +1,8 @@
 # Pantry
+This project is the frontend for my Pantry Backend application also available in my repositories. This is currently a work in progress and I am continually adding functionalities.
+
+
+## Angular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.2.
 
